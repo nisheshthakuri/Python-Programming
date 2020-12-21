@@ -7,7 +7,6 @@ Author: Nishesh Thakuri
 Date: 19 Dec, 2020
 """
 list = ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
-list = ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
 list.remove('Red')
 list.remove('Pink')
 list.remove('Yellow')
